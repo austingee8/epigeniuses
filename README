@@ -1,1 +1,24 @@
-Information about Code
+This github provides the Juptyer Notebook used to process the data for the epigeniuses team.
+
+The notebook provides a structure to pull important data from various excel documents and find 
+similarities between excel documents. The notebook also provides a way to print out the data in 
+a way that is easy to communicate with biologists. Finally, the notebook also creates files to 
+be used as inputs to an online venn diagram creator (link provided in notebook) so that the 
+outputs can be visualized.
+
+The notebook was made with the purpose to be easily modifiable so that new or different data 
+can easily be incorporated. It also allows for the existing data to be used in different ways,
+accessing different values of the excel sheet as needed.
+
+The data used for our paper is also included in this repository as a reference. The different
+data and what mental disorder it pertains to is as follows:
+"Data 1.csv" - Depression
+"Data 2.csv" - Schizophrenia
+"Data 3.csv" - Schizophrenia
+"Data 4.csv" - Schizophrenia
+"Data 5.csv" - Bipolar/Depression
+"Data 6.csv" - Bipolar/Depression
+"Data 7.csv" - Bipolar/Depression
+"Data 8.csv" - Childhood Stress
+"Data 9.csv" - Childhood Stress
+"Data 10.csv" - Alcoholism

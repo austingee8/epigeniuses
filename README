@@ -1,5 +1,8 @@
 This github provides the Juptyer Notebook used to process the data for the epigeniuses team.
 
+The folder CpGFinder contains our 8-state Markov Model, testing data using the referenced TNXB gene,
+and a notebook file with additional commentary and presentation of algorithms.
+
 The notebook provides a structure to pull important data from various excel documents and find 
 similarities between excel documents. The notebook also provides a way to print out the data in 
 a way that is easy to communicate with biologists. Finally, the notebook also creates files to 
